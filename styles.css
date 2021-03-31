@@ -1,3 +1,8 @@
 .menu{
     background-color: white;
 }
+.left{
+    float: left;
+    width: 20px;
+    height: 35px;
+}
